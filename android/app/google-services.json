@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27287619166",
+    "project_id": "hilmamprojeksi",
+    "storage_bucket": "hilmamprojeksi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27287619166:android:96ccac048698bddf3b56cf",
+        "android_client_info": {
+          "package_name": "com.projekhilmam.projekhilmam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfb8g7aO2ZzwzYPokmjAeBrpZ9B7L4MZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
