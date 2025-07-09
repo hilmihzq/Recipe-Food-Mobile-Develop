@@ -31,7 +31,7 @@ Kalian juga bisa lihat prototype videonya (https://drive.google.com/file/d/1tfQd
 
 Beberapa contoh UI mobile android projek ini
 
-🖼️ Tampilan Proyek
+
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/e271f2e3-aa80-4824-9982-8b3b5dea2e69" width="200"/> <img src="https://github.com/user-attachments/assets/13b4581d-e6cd-4c81-85c8-caf750484adf" width="200"/> <img src="https://github.com/user-attachments/assets/c4871cfc-5989-4cfe-903e-3a27e8c954b0" width="200"/> <img src="https://github.com/user-attachments/assets/36cfd231-273e-4327-b515-64520cbea3e4" width="200"/> <img src="https://github.com/user-attachments/assets/e77f7dc2-303a-4a18-9381-7468b460d252" width="200"/> <img src="https://github.com/user-attachments/assets/a5a450ab-1868-4bc3-b3fc-00bf59df0e62" width="200"/> <img src="https://github.com/user-attachments/assets/e34f31a5-b69d-4c0d-904c-fbcafd01da52" width="200"/> </p>
 
