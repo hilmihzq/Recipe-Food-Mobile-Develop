@@ -14,6 +14,32 @@
 # Tampilan Antarmuka
 <p align="center"> <img src="https://github.com/user-attachments/assets/e271f2e3-aa80-4824-9982-8b3b5dea2e69" width="200"/> <img src="https://github.com/user-attachments/assets/13b4581d-e6cd-4c81-85c8-caf750484adf" width="200"/> <img src="https://github.com/user-attachments/assets/c4871cfc-5989-4cfe-903e-3a27e8c954b0" width="200"/> <img src="https://github.com/user-attachments/assets/36cfd231-273e-4327-b515-64520cbea3e4" width="200"/> <img src="https://github.com/user-attachments/assets/e77f7dc2-303a-4a18-9381-7468b460d252" width="200"/> <img src="https://github.com/user-attachments/assets/a5a450ab-1868-4bc3-b3fc-00bf59df0e62" width="200"/> <img src="https://github.com/user-attachments/assets/e34f31a5-b69d-4c0d-904c-fbcafd01da52" width="200"/> </p>
 
+
+---
+
+## 🔥 Struktur Firebase
+
+Struktur database dan layanan Firebase yang digunakan pada aplikasi ini mencakup:
+
+- Autentikasi pengguna (Firebase Auth)
+- Penyimpanan data resep (Cloud Firestore)
+- Penyimpanan gambar (Firebase Storage)
+- Koleksi `recipes`, `users`, dan `favorites`
+
+Berikut adalah tampilan dari konfigurasi Firebase pada project ini:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd8dfb3b-40a6-4df9-9313-b04d7ff1d00f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6b69a6c0-4f5a-45fb-8c5f-75c9de2d5f11" width="300"/>
+  <img src="https://github.com/user-attachments/assets/902341a8-0f4f-4479-85ba-3762663d091c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2def1da5-717b-4d32-a027-98305d543260" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e7830c57-37a9-4180-b14e-c8c68217a608" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6b61febc-926b-43af-ab18-564671ff08a4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/16e0a35a-4ec2-4809-88f1-23235d071b70" width="300"/>
+  <img src="https://github.com/user-attachments/assets/865d6ffe-7afa-49d7-a664-13aae3bcd350" width="300"/>
+</p>
+
+
 ## 🚀 Fitur Utama
 
 - 🍛 **Menampilkan berbagai resep makanan**
