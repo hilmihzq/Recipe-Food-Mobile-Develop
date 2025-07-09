@@ -66,6 +66,40 @@ Berikut adalah tampilan dari konfigurasi Firebase pada project ini:
 
 ---
 
+## 📁 Struktur Folder
+
+
+Recipe-Food-Mobile-Develop/
+├── android/                 # Proyek Android (native)
+├── ios/                    # Proyek iOS (native)
+├── lib/                    # Kode utama Flutter
+│   ├── models/             # Model data (Recipe, User, dsb.)
+│   ├── screens/            # Semua halaman tampilan
+│   │   ├── home_screen.dart
+│   │   ├── login_screen.dart
+│   │   ├── register_screen.dart
+│   │   ├── recipe_detail_screen.dart
+│   │   └── add_recipe_screen.dart
+│   ├── services/           # Firebase services & logika backend
+│   │   ├── auth_service.dart
+│   │   ├── recipe_service.dart
+│   │   └── storage_service.dart
+│   ├── widgets/            # Widget kustom (UI reusable)
+│   │   ├── recipe_card.dart
+│   │   ├── custom_button.dart
+│   │   └── input_field.dart
+│   ├── constants/          # Konstanta warna, style, dsb.
+│   │   └── theme.dart
+│   └── main.dart           # Entry point aplikasi
+├── assets/                 # Gambar, ikon, font, dll
+│   ├── images/
+│   └── icons/
+├── pubspec.yaml            # File konfigurasi & dependensi
+├── README.md               # Dokumentasi proyek
+├── .gitignore              # Daftar file/folder yang diabaikan git
+└── firebase.json           # (opsional) Konfigurasi Firebase CLI
+
+
 ## ⚙️ Cara Menjalankan Proyek
 
 ### 🔧 1. Clone Repository
