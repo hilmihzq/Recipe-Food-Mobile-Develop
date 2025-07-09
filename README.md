@@ -53,6 +53,7 @@ Berikut adalah tampilan dari konfigurasi Firebase pada project ini:
   <img src="https://github.com/user-attachments/assets/865d6ffe-7afa-49d7-a664-13aae3bcd350" width="300"/>
 </p>
 
+```text
 ## 🛠️ Teknologi yang Digunakan
 
 | Teknologi            | Keterangan                           |
