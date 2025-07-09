@@ -7,12 +7,12 @@
 > Cocok untuk para pecinta masakan yang ingin menyimpan dan menemukan inspirasi resep dengan mudah.
 
 ---
-
+```text
 # 🍲 Aplikasi Resep Makanan (Recipe Food Mobile App)
 
 ---
 
-
+```text
 ## 🚀 Fitur Utama
 
 - 🍛 **Menampilkan berbagai resep makanan**
