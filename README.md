@@ -68,7 +68,7 @@ Berikut adalah tampilan dari konfigurasi Firebase pada project ini:
 
 ## 📁 Struktur Folder
 
-
+```text
 Recipe-Food-Mobile-Develop/
 ├── android/                 # Proyek Android (native)
 ├── ios/                    # Proyek iOS (native)
